@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "HTML_CSS",
+			"path": "."
+		},
+		{
+			"path": "../kadai_005/html"
+		},
+		{
+			"path": "../kadai_005"
+		},
+		{
+			"path": "../form.html"
+		},
+		{
+			"path": "../layout.html"
+		},
+		{
+			"path": "../audio-tag.html"
+		},
+		{
+			"path": "../kadai_008"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kadai_005"
+	}
+}
